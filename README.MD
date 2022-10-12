@@ -1,5 +1,5 @@
 ```python
-
+pip install a-pandas-ex-df-updater
 ```
 
 ```python
