@@ -5,6 +5,7 @@ pip install a-pandas-ex-df-updater
 ```python
 #    Update a DataFrame/Series with the values of another.
     from a_pandas_ex_df_updater import pd_add_df_updater
+    pd_add_df_updater()
 
     df1 = pd.DataFrame(np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]]),
                        columns=['a', 'b', 'c'])
